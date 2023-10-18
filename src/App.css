@@ -1,0 +1,5 @@
+.App{
+    background-image: radial-gradient(pink,rgb(187,181,219));
+    height: 100vh;
+    width: 100vw;
+}
